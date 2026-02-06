@@ -19,10 +19,14 @@ This analysis answers those questions using real-world hospitality datasets.
 
 **The project uses 5 CSV files:**
 
-dim_date.csv – Date-related attributes
-dim_hotels.csv – Hotel details (city, property name, category)
-dim_rooms.csv – Room category details
-fact_aggregated_bookings.csv – Aggregated booking metrics
+dim_date.csv – Date-related attributes,
+
+dim_hotels.csv – Hotel details (city, property name, category),
+
+dim_rooms.csv – Room category details,
+
+fact_aggregated_bookings.csv – Aggregated booking metrics,
+
 fact_bookings.csv – Transaction-level booking data
 
 ## Tools & Technologies
@@ -65,7 +69,7 @@ AtliQ-Hotels-Analysis/
 ## How to Run the Project
 **Clone the repository**
 ```bash
-git clone https://github.com/your-username/AtliQ-Hotels-Analysis.git
+git clone https://github.com/Ayazkhan-07/AtliQ-Hotels-Analysis.git
 cd AtliQ-Hotels-Analysis
 ```
 
@@ -84,7 +88,6 @@ Add data visualization using Matplotlib / Seaborn / Power BI
 Automate KPI dashboards
 Perform forecasting on bookings and revenue
 
-## Author
-
-Ayaz Khan
+## Author - Ayaz Khan
+📧 ayazriyazahmedkhan@gmail.com 🌐 https://www.linkedin.com/in/ayazriyazkhan
 Aspiring Data Analyst | Python | SQL | Power BI | Business Analytics
